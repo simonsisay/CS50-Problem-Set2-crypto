@@ -1,1 +1,1 @@
-# pset2
+CS50 Problem set2
