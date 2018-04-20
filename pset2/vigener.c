@@ -51,7 +51,7 @@ int main(int argc, string argv[])
             }
             else
             {
-                //if the some of the ith letter word and ith letter in word
+                //if the sum of the ith letter word and ith letter in word
                 //exceed above 'Z' do not let it print the next character instead restart from "A"
 
                 printf("%c", (word[i] + text[i])%26 + 65);
